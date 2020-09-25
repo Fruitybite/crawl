@@ -328,7 +328,7 @@ static const map<job_type, job_def> job_data =
     "Cl", "Collector",
     5, 3, 4,
     { SP_HILL_ORC, SP_MINOTAUR, SP_DEMIGOD, SP_OCTOPODE, SP_TROLL, SP_FELID, SP_HUMAN },
-    { "hat", "robe plus:1"},
+    { "hat", "scroll of wish q:4", "robe plus:1"},
     WCHOICE_PLAIN,
     {  { SK_WEAPON, 2 }, { SK_FIGHTING, 3 } },
 } },
